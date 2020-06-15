@@ -1,0 +1,5 @@
+##Interface: 20400
+##Title: PersonalResourceDisplay
+##Author: Siggelicious
+
+Core.lua
